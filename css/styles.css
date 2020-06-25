@@ -1,0 +1,187 @@
+body {
+
+
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+
+h1 {
+  color: white;
+  text-align: right;
+  font-size: 6rem;
+  margin: 5px auto 0 auto;
+  font-family: 'Cantora One', sans-serif;
+
+}
+
+h2 {
+
+  font-family: 'Courgette', cursive;
+  font-size: 3.2rem;
+  font-weight: normal;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+h3 {
+
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+}
+
+h5 {
+  font-family: 'Cantora One', sans-serif;
+  font-size: 3rem;
+  padding-top: 40px;
+  color: white;
+
+}
+
+h6 {
+
+
+font-size: 30px;
+background-color: #4d3e3e;
+color: white;
+}
+
+h4 {
+color: white;
+font-family: 'Cantora One', sans-serif;
+font-size: 4rem;
+
+}
+
+p {
+  line-height: 2;
+  font-size: 20px;
+
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+a{
+  color: #f1d1d1;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+  font-size: 2.2rem;
+  cursor: hand;
+}
+
+a:hover {
+  color: white;
+}
+
+.top-container {
+
+  background: url('https://c.pxhere.com/images/89/01/c0c88ec3311492c7bc249a322c9c-1458685.jpg!d') no-repeat center center;
+
+padding-bottom: 165px;
+    background-size: cover;
+padding-right: 50px;
+padding-top: 275px;
+
+}
+
+.middle-container {
+
+
+color: #7d5a5a;
+  background-color: #f3e1e1;
+
+}
+
+.skills {
+  padding-top: 50px;
+}
+
+.bottom-container {
+  background-color: #4d3e3e;
+  padding: 25px 0 10px;
+}
+
+#about {
+  padding-top: 150px;
+  color: #7d5a5a;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+
+
+.intro {
+  width: 50%;
+  margin: auto;
+  font-size: 22;
+  color: #7d5a5a;
+
+}
+
+.intro-name {
+  width: 50%;
+  margin: auto;
+  font-size: 27px;
+  color: #7d5a5a;
+}
+
+.profile-img {
+  border-radius: 100%;
+
+  width: 250px;
+  margin-bottom: 50px;
+}
+
+.profile {
+  font-family: 'Courgette', cursive;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 1.1rem;
+  margin-top: 0.85rem;
+
+}
+
+.contact-me {
+  background-image: url(../images/mango.jpg);
+  background-size: cover;
+  padding-bottom: 125px;
+  padding-top: 100px;
+  -webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+color:white;
+font-size: 4rem;
+
+}
+
+
+
+.code-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.second-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
